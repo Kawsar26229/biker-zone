@@ -171,3 +171,37 @@ button:hover {
 .job-title {
     font-weight: 500;
 }
+/* FQA Section */
+.fqa {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+.fqa-cover {
+    margin-bottom: 1rem;
+    border: 1px solid #38383817;
+    padding: 1rem;
+}
+.fqa-head {
+    display: flex;
+    gap: 2rem;
+    cursor: pointer;
+}
+.caret-col {
+    font-size: 1.2rem;
+    color: var(--dark-color);
+}
+.fqa-title {
+    margin-bottom: 0.5rem;
+}
+.fqa-img {
+    width: 35rem;
+}
+.fqa-desc {
+    color: #7E848C
+}
+.fqa-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
